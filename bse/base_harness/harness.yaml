@@ -1,0 +1,10 @@
+name: bse_oc_harness
+components:
+  system_prompt: systemprompt.md
+  guardrails: guardrails.md
+  long_term_memory: LongTermMEMORY.md
+  skills_dir: skills/
+  sub_agents_dir: sub_agents/
+  scripts_dir: scripts/
+  tool_guidance: tool_descriptions/tool_guidance.md
+  plugins_dir: plugin/
